@@ -9,13 +9,10 @@ içeriklerinin benzerlik skorları ayrı ayrı hesaplanıp yazdırılmaktadır.
 <hr>
 URL'yi giriniz:
 <hr>
-
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
-
-
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
@@ -29,17 +26,13 @@ URL'yi giriniz:
 <input type="url" url="url" name="url2">
 <hr>
 <button class="btn btn-primary my-2 my-sm-0" type="submit">HESAPLA</button>
-
 </form>
 <!-- Girilen URL'yi kontrol ediyor.Eğer kontrol doğru sağlanırsa bağlantıyı istenen aşamaya sokuyor.-->
 {% if ctrl == True %}
 <ul class="list-group">
-
 {% for key,value in dict_d  %}
 <li class="list-group-item" >{{key}} ( {{value}} ) </li>
 {% endfor %}
-
-
 </ul>
 
 {% else %}
