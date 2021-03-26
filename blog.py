@@ -86,12 +86,6 @@ def findurl():
 
     return render_template("indexleme.html",ctrl=True)
     
-    
-
-    
-
-
-
 
 @webapp.route("/semantik")
 def analiz():
