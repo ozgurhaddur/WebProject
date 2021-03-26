@@ -17,7 +17,7 @@ Sonrasında aşağıda terminalde yazdırılan http://127.0.0.1:5000 linke Ctrl+
 
 Artık projede yukarıda verilen işlemleri gerçekleştirebilirsiniz.
 
-# Temel Modül Görselleri
+# Temel Uygulama Görselleri
 ##### *Web Indexleme Uygulaması Giriş Sayfası*
 ![Giriş](https://user-images.githubusercontent.com/73740709/112596463-ea88e280-8e1c-11eb-9223-a0a7861a6969.png)
 ##### *Frekans Hesaplama Sayfası*
