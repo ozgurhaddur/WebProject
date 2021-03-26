@@ -13,7 +13,7 @@ Projeyi çalıştırmak amacıyla aşağıdaki python komutu aracılığıyla pr
 
 `python blog.py` komutunu girip projeyi çalıştırınız.
 
-Sonrasında aşağıda terminalde yazdırılan http://127.0.0.1:5000 linke Ctrl+Click yaparak ya da linki tarayıcınız arama motoruna yapıştırıp aratınız.
+Sonrasında aşağıda terminalde yazdırılan http://127.0.0.1:5000 linke Ctrl+Click yaparak ya da linki tarayıcınızın arama motoruna yapıştırıp aratınız.
 
 Artık projede yukarıda verilen işlemleri gerçekleştirebilirsiniz.
 
