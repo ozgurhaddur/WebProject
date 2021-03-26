@@ -81,8 +81,7 @@ def findurl():
     if (len(url1) == 0 or len(url2) == 0):
         flash("Hatalı giriş yaptınız.","danger")
         return render_template("indexleme.html",ctrl=False)
-
-    """tree=g_u.indexleme(urla,urlb)"""    
+  
 
 
     return render_template("indexleme.html",ctrl=True)
