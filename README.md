@@ -19,7 +19,7 @@ Artık projede yukarıda verilen işlemleri gerçekleştirebilirsiniz.
 
 # Temel Uygulama Görselleri
 ##### *Web Indexleme Uygulaması Giriş Sayfası*
-![Giriş](https://user-images.githubusercontent.com/73740709/112599083-7b14f200-8e20-11eb-9007-18de17851709.png)
+![Giriş](https://user-images.githubusercontent.com/73740709/112599813-74d34580-8e21-11eb-8314-3ae65637d0a9.png)
 ##### *Frekans Hesaplama Sayfası*
 ![Frekans](https://user-images.githubusercontent.com/73740709/112596603-173cfa00-8e1d-11eb-85f0-bec34ca1d415.png)
 ##### *Anahtar Kelime Sayfası*
